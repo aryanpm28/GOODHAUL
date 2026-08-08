@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 48" fill="none">
+  <rect width="48" height="48" rx="10" fill="#e8a23a"/>
+  <path d="M14 12h14l10 10-16 16-14-14V12z" fill="#16160f"/>
+  <circle cx="18" cy="18" r="2.4" fill="#e8a23a"/>
+  <text x="60" y="33" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" letter-spacing="1" fill="#16160f">GOODHAUL</text>
+</svg>
